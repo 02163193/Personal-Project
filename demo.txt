@@ -1,2 +1,3 @@
 #!bin/bash
-sudo ufw allow
+
+sudo apt update
